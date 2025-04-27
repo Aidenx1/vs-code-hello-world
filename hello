@@ -2,3 +2,5 @@ print("greeting jdfsklgjfds")
 print("hello world")
 print("fortnite")
 print ("pls pls pls pls plsssssss")
+fortnite = "yes yes yes"
+print(fortnite)
